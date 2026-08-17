@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 
 public class LC_1480_RunningSumof1dArray {
     static void main(String[] args) {

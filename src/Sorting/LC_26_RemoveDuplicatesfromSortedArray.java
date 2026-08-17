@@ -1,4 +1,4 @@
-package sorting;
+package Sorting;
 
 public class LC_26_RemoveDuplicatesfromSortedArray {
 
