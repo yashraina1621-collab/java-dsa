@@ -1,5 +1,9 @@
+package Arrays;
+
 public class LC_27_RemoveElement {
-    class Solution {
+    static void main(String[] args) {
+
+    }
         public int removeElement(int[] nums, int val) {
 
             int k = 0;
@@ -15,4 +19,4 @@ public class LC_27_RemoveElement {
             return k;
         }
     }
-}
+
