@@ -14,8 +14,8 @@ public class LC_27_RemoveElement {
                     nums[k] = nums[i];
                     k++;
                 }
-            }
 
+            }
             return k;
         }
     }
