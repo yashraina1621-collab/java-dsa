@@ -5,9 +5,11 @@ public class TakeRealNumCheckInteger {
         Scanner sc = new Scanner(System.in);
 
         double n = sc.nextDouble();
-        n = n/10;
-        System.out.println(n);
-
+        if (n == (int)n){
+            System.out.println("it is an Integer");
+        } else {
+            System.out.println("It is not an Integer");
+        }
 
     }
 }
